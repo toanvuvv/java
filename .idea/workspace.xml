@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27034fb4-b0c3-4866-bd0c-ab2665fdebb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_almasb_fxgl_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_almasb_fxgl_core_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_almasb_fxgl_entity_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_almasb_fxgl_gameplay_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_almasb_fxgl_io_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_almasb_fxgl_scene_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_audio_4_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_lifecycle_4_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_storage_4_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gluonhq_attach_util_4_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_synedra_validatorfx_0_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_modular_1_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_media_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_media_win_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_web_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_web_win_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_jena_arq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_jena_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/codota_4_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/controlsfx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/dlsc_formsfx_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_simple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowData/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowData/PrintData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowData/ReadTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowData/TouristDescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawJena/CrawRDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawJena/GetQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawJena/GetResultSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawJena/SaveTurtleFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crawJena/SaveTxtFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileout/cityinVietnam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileout/festival.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileout/food.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileout/tourist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fliesaved/cityinVietnam.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fliesaved/festival.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fliesaved/food.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fliesaved/tourist.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vedulieu/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vedulieu/DuLieuDuLich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vedulieu/MainDuLieuDuLich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vedulieu/Sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vedulieu/ToMauJavaFX.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vedulieu/VeJavaFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vedulieu/food.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vedulieu/quetoi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjena.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BFtiiCRIyri84lmggsaasKlvVN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "D:/20212/midtermjava/gitclone/JavaFX-Login-Form",
+    "list.type.of.created.stylesheet": "CSS",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\20212\midtermjava\testjena\src\JavaFXDraw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\20212\midtermjava\testjena\JavaFX\src\main\java\com\example\javafx" />
+      <recent name="D:\20212\midtermjava\testjena\demo\src\main\java\com\example\demo" />
+      <recent name="D:\20212\midtermjava\testjena\demo\src\main\resources\com\example\demo" />
+      <recent name="D:\20212\midtermjava\testjena\demo\src\main\resources" />
+      <recent name="D:\20212\midtermjava\testjena\src\JavaFXDraw" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.vedulieu.VeJavaFX">
+    <configuration name="ImageLoadTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nonn.ImageLoadTracker" />
+      <module name="testjena" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nonn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testfx.Main" />
+      <module name="testjena" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveToFile" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SaveToFile" />
+      <module name="testjena" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveTurtleFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawJena.SaveTurtleFile" />
+      <module name="testjena" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crawJena.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveTxtFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawJena.SaveTxtFile" />
+      <module name="testjena" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crawJena.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeJavaFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vedulieu.VeJavaFX" />
+      <module name="testjena" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;C:\Users\minhhotboy9x\Downloads\openjfx-18.0.1_windows-x64_bin-sdk\javafx-sdk-18.0.1\lib --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vedulieu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SaveToFile" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SaveTurtleFile" />
+      <item itemvalue="Application.SaveTxtFile" />
+      <item itemvalue="Application.ImageLoadTracker" />
+      <item itemvalue="Application.vedulieu.VeJavaFX" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.vedulieu.VeJavaFX" />
+        <item itemvalue="Application.SaveTxtFile" />
+        <item itemvalue="Application.SaveTurtleFile" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ImageLoadTracker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27034fb4-b0c3-4866-bd0c-ab2665fdebb8" name="Changes" comment="" />
+      <created>1656513790008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656513790008</updated>
+      <workItem from="1656513791326" duration="19811000" />
+      <workItem from="1656751292349" duration="3741000" />
+      <workItem from="1656774200727" duration="22043000" />
+      <workItem from="1656848218146" duration="1516000" />
+      <workItem from="1656849799393" duration="1396000" />
+      <workItem from="1656851275178" duration="2266000" />
+      <workItem from="1656853982652" duration="3389000" />
+      <workItem from="1656862814202" duration="2369000" />
+      <workItem from="1656866623531" duration="224000" />
+      <workItem from="1656913571438" duration="784000" />
+      <workItem from="1656945237241" duration="165000" />
+      <workItem from="1656945584423" duration="16272000" />
+      <workItem from="1656992245484" duration="16100000" />
+      <workItem from="1657031176211" duration="8779000" />
+      <workItem from="1657094046375" duration="8883000" />
+      <workItem from="1657177653290" duration="1187000" />
+      <workItem from="1657190793893" duration="334000" />
+      <workItem from="1657191286583" duration="6515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/JavaFX" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
